@@ -2,7 +2,8 @@
 size(1000, 700);
 background(0);
 smooth();
-stroke(0);
+stroke(255);
+strokeWeight(0);
 
 
 //New Moon
